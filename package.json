@@ -2,10 +2,17 @@
   "name": "@magnal/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for my projects",
-  "main": "index.json",
+  "main": ".prettierrc",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.0.7",
+    "pretty-quick": "^2.0.1"
+  },
+  "peerDependencies": {
+    "husky": "^4.0.7",
+    "pretty-quick": "^2.0.1"
+  }
 }
