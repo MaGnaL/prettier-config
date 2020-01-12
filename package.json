@@ -6,6 +6,7 @@
   "scripts": {},
   "author": "",
   "license": "MIT",
+  "private": false,
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
