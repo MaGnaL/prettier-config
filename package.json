@@ -2,7 +2,7 @@
   "name": "@magnal/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for my projects",
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "scripts": {},
   "author": "",
   "license": "MIT",
