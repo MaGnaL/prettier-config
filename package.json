@@ -2,11 +2,19 @@
   "name": "@magnal/prettier-config",
   "version": "1.0.1",
   "description": "Prettier config for my projects",
+  "author": {
+    "name": "Manuel Lang",
+    "email": "hello@manuellang.dev",
+    "url": "http://manuellang.dev/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaGnaL/prettier-config.git"
+  },
+  "homepage": "https://github.com/MaGnaL/prettier-config",
   "main": ".prettierrc.json",
   "scripts": {},
-  "author": "",
   "license": "MIT",
-  "private": false,
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
