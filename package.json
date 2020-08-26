@@ -27,6 +27,7 @@
     "husky": "^4.2.5",
     "prettier": "^2.1",
     "pretty-quick": "^2.0.2",
+    "standard-changelog": "^2.0.24"
   },
   "peerDependencies": {
     "husky": "^4.0",
