@@ -10,7 +10,8 @@
     {
       "files": "**/*.html",
       "options": {
-        "printWidth": 150
+        "printWidth": 150,
+        "singleQuote": false
       }
     }
   ]
