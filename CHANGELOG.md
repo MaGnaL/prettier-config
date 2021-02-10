@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.0.2...v3.1.0) (2021-02-10)
+
+### Features
+
+- use double quotes for html files ([393a548](https://github.com/mokkapps/changelog-generator-demo/commits/393a5482f9aace133e0863888ea62caaaf32781c))
+
 ### [3.0.2](https://github.com/mokkapps/changelog-generator-demo/compare/v3.0.1...v3.0.2) (2021-02-06)
 
 ### [3.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v3.0.0...v3.0.1) (2021-02-06)
