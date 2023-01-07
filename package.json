@@ -1,11 +1,11 @@
 {
   "name": "@magnal/prettier-config",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Prettier config for my projects",
   "author": {
     "name": "Manuel Lang",
     "email": "hello@manuellang.dev",
-    "url": "http://manuellang.dev/"
+    "url": "https://manuellang.dev/"
   },
   "repository": {
     "type": "git",
