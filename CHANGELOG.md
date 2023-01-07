@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.2.0...v3.3.0) (2023-01-07)
+
+
+### Bug Fixes
+
+* update deps in lockfile to resolve potential security vulnerabilities ([78635e8](https://github.com/mokkapps/changelog-generator-demo/commits/78635e828a672cc441cded16265c1ea26d7035d6))
+
 ## [3.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.1.0...v3.2.0) (2022-03-13)
 
 ## [3.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.0.2...v3.1.0) (2021-02-10)
