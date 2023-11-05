@@ -2,12 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [3.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.2.0...v3.3.0) (2023-01-07)
+## [4.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.3.0...v4.0.0) (2023-11-05)
 
+### Features
+
+- remove pretty-quick and use lint-staged instead, update to prettier 3 ([f00d838](https://github.com/mokkapps/changelog-generator-demo/commits/f00d83856cdb1e628f6c8d9db094ef74a94e61d7))
+
+## [3.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.2.0...v3.3.0) (2023-01-07)
 
 ### Bug Fixes
 
-* update deps in lockfile to resolve potential security vulnerabilities ([78635e8](https://github.com/mokkapps/changelog-generator-demo/commits/78635e828a672cc441cded16265c1ea26d7035d6))
+- update deps in lockfile to resolve potential security vulnerabilities ([78635e8](https://github.com/mokkapps/changelog-generator-demo/commits/78635e828a672cc441cded16265c1ea26d7035d6))
 
 ## [3.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.1.0...v3.2.0) (2022-03-13)
 
