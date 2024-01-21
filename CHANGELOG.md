@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/MaGnaL/prettier-config/compare/v4.0.0...v4.1.0) (2024-01-21)
+
+### Features
+
+- update to latest prettier and optimize internals ([22b8b27](https://github.com/MaGnaL/prettier-config/commits/22b8b275e5cd31d362eae164dbe7ccfe82d9443e))
+
 ## [4.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.3.0...v4.0.0) (2023-11-05)
 
 ### Features
