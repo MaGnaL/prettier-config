@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/MaGnaL/prettier-config/compare/v4.1.0...v4.2.0) (2024-01-21)
+
+### Features
+
+- remove setting for embeddedLanguageFormatting and bracketSpacing ([93df733](https://github.com/MaGnaL/prettier-config/commits/93df733456da8922455d79b5e1200e5956f6ecf7))
+
 ## [4.1.0](https://github.com/MaGnaL/prettier-config/compare/v4.0.0...v4.1.0) (2024-01-21)
 
 ### Features
