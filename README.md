@@ -1,13 +1,7 @@
 # @magnal/prettier-config
 
-My personal shared prettier config.
+## Deprecated
 
-## How to use in a project
+Project has been moved to an overall tooling repo for shared configs and reusable setups:
 
-- install
-  - with npm: `npm i @magnal/prettier-config prettier --save-dev`
-  - with yarn: `yarn add @magnal/prettier-config prettier --dev`
-- create `.prettierrc` in project root with content `"@magnal/prettier-config"`
-- done
-
-Can also be used together with husky to format files. To do so, see husky docs.
+[https://github.com/MaGnaL/tool-foundation](https://github.com/MaGnaL/tool-foundation/tree/main/packages/prettier-config)
